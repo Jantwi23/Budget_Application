@@ -1,5 +1,5 @@
 #application HA4
-import Christopher_Faustino_HA4_utility as u
+import HA4_utility as u
 
 def main():
     students = u.create_dict('studentProfile.txt') #create dict from file
